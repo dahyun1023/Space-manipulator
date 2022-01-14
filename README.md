@@ -1,5 +1,4 @@
-# Space-manipulator
-Motion Planning of Space Manipulator for Capturing a Tumbling Non-cooperative Target using Reinforcement Learning
+# Motion Planning of Space Manipulator for Capturing a Tumbling Non-cooperative Target using Reinforcement Learning
 
 These are the codes that were used for my master's thesis.
 You could read the thesis by searching the name "Dahyun Lee" on the kaist library website.
